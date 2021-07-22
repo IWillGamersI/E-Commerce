@@ -1,0 +1,13 @@
+#produtos,
+#carrinho{
+    max-width: 900px;
+    margin: auto;
+    padding: 0 2%;
+    display: flex;
+}
+
+.product-single{
+    width: 33%;
+    padding: 0 20px;
+    
+}
